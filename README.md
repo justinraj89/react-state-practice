@@ -19,7 +19,7 @@
 ![Poke](https://i.imgur.com/0zg5FYZ.png)
 
 ## Mobile-View
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGYzNzNkNmU2YTU0Y2FjZWQxNDU0ZmEyMjExZWFhZGUxNWViMjE3NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jJ8cOxKYk9QguLqvfw/giphy.gif" width="400" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmZGYzNjQyZjNkMzdkMGQzZmMxZDBhM2IyMWUxMWRhZjZiMjgzMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/GWgZu7FWFQ8yqtWbWk/giphy.gif" width="400" >
 
 ## Technologies Used
 
