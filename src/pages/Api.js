@@ -48,15 +48,13 @@ function Api() {
 
       { error && <h1 className="mt-4 text-red-500">Could not find that pokemon, double check your spelling!</h1>}
 
-      {pokemon ? 
+      {pokemon && !error &&
       <div className="mt-8 flex flex-col justify-center items-center lg:w-96">
         <h1 className="text-3xl font-extrabold">{pokemon.species.name}</h1>
         <img src={pokemon.sprites.front_default} alt={pokemon.species.name} className="w-40" />
         <h2 className="font-bold">Base XP: <span className="font-medium">{pokemon.base_experience}</span></h2>
       </div>
-      
-      
-      :<h1>Search for a pokemon</h1>}
+      }
 
       
     </main>
