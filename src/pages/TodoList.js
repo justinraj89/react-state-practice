@@ -28,7 +28,6 @@ function TodoList() {
       newArr[index].isChecked = !newArr[index].isChecked;
       return newArr;
     });
-    
   }
 
   function handleFormSubmit(e) {

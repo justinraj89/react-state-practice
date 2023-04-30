@@ -6,6 +6,7 @@ function Nav() {
         <Link to='/' className="hover:underline">State Selector</Link>
         <Link to='/clickedpoints' className="hover:underline">Clicked Points</Link>
         <Link to='/todolist' className="hover:underline">Todo List</Link>
+        <Link to='/api' className="hover:underline">Pokemon</Link>
     </nav>
   )
 }

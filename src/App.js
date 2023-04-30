@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import SelectboxState from "./pages/SelectboxState";
 import ClickedPoints from "./pages/ClickedPoints";
 import TodoList from "./pages/TodoList";
+import Api from "./pages/Api";
 import Nav from "./components/Nav";
 //================================
 
@@ -16,6 +17,7 @@ function App() {
         <Route path='/' element={<SelectboxState/>} />
         <Route path='/clickedpoints' element={<ClickedPoints/>} />
         <Route path='/todolist' element={<TodoList/>} />
+        <Route path='/api' element={<Api />} />
       </Routes>
     </BrowserRouter>
   )
