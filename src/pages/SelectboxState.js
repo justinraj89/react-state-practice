@@ -44,7 +44,7 @@ function SelectboxState() {
   //========================================
 
   return (
-    <main className="flex flex-col items-center pt-12">
+    <main className="flex flex-col items-center pt-12 font-mono">
       <h1 className="font-extrabold text-3xl pb-8 text-center">
         Select city and state
       </h1>

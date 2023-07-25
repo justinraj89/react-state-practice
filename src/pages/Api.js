@@ -40,7 +40,7 @@ function Api() {
 
 
   return (
-    <main className='flex flex-col items-center justify-center mt-20'>
+    <main className='flex flex-col items-center justify-center mt-20 font-mono'>
       <form onSubmit={handlePokemonSearch}className="flex gap-4">
         <input value={searchValue} onChange={(e) => setSearchValue(e.target.value)} type="text" className="border-b focus:outline-none" placeholder="search pokemon"/>
         <button type='submit' className="px-3 bg-black hover:bg-zinc-700 text-white rounded-lg">Search</button>

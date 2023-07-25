@@ -40,7 +40,7 @@ function ClickedPoints() {
   }
   //==============================================
   return (
-    <main className="flex flex-col h-[90vh] items-center mt-12 lg:mt-8 px-4">
+    <main className="flex flex-col h-[90vh] items-center mt-12 lg:mt-8 px-4 font-mono">
       <h1 className="pb-4 text-3xl font-extrabold">Total clicked Points: {points.length}</h1>
       <div className="flex gap-8 pb-4">
         <button
